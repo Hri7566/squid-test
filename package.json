@@ -1,0 +1,10 @@
+{
+  "name": "squid-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flying-squid": "https://github.com/Hri7566/flying-squid",
+    "prismarine-world": "https://github.com/kf106/prismarine-world"
+  }
+}
